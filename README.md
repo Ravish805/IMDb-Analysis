@@ -87,5 +87,4 @@ This project focuses on analyzing IMDb data to uncover insights into movie ratin
 #### Conclusion
 By following these steps and utilizing the designed visualizations, you can gain a comprehensive understanding of trends in the movie industry, identify key patterns, and make data-driven decisions or recommendations.
 
----
 
